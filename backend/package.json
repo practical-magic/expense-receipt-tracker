@@ -1,0 +1,18 @@
+{
+  "name": "expense-receipt-tracker",
+  "version": "1.0.0",
+  "description": "An application to automatically track your expenses and receipts from your email provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "expense",
+    "tracker",
+    "receipts",
+    "accounting"
+  ],
+  "author": "Kevin Carr",
+  "license": "MIT"
+}
